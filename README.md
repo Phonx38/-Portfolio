@@ -1,2 +1,2 @@
 # -Portfolio
-it's gong to be very cool
+it's going to be very cool
